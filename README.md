@@ -13,7 +13,7 @@ Step5. Calculating the nn back propogations
 ![Pic](images/BackPropagations.png)
 
 Step5, Refresh nn and the gradients
-Step6. Stastistics of accuracy and batch regressions
+Step6. Statistics of accuracy and batch regressions
 
 
 ## Test results
